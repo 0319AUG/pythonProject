@@ -1,3 +1,2 @@
-print("a")
-print("test")
-print("test 2")
+a = 1
+print(a)
